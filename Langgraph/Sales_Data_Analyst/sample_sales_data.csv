@@ -1,0 +1,21 @@
+Date,Region,Product,Category,Sales,Quantity,Profit
+2023-01-01,North,Laptop Pro X,Electronics,1200,5,200
+2023-01-02,South,Office Chair,Furniture,150,10,40
+2023-01-03,East,Wireless Mouse,Electronics,25,50,10
+2023-01-04,West,Mechanical Keyboard,Electronics,100,20,30
+2023-01-05,North,Gaming Monitor,Electronics,400,8,80
+2023-01-06,South,Wooden Desk,Furniture,300,4,60
+2023-01-07,East,Smartphone Z,Electronics,800,12,150
+2023-01-08,West,Ergonomic Chair,Furniture,250,6,50
+2023-01-09,North,Headphones,Electronics,150,15,45
+2023-01-10,South,Bookshelf,Furniture,120,5,30
+2023-02-01,North,Laptop Pro X,Electronics,1200,3,200
+2023-02-02,East,Office Chair,Furniture,150,8,40
+2023-02-03,West,Wireless Mouse,Electronics,25,30,10
+2023-02-04,South,Mechanical Keyboard,Electronics,100,10,30
+2023-02-05,North,Gaming Monitor,Electronics,400,5,80
+2023-02-06,East,Wooden Desk,Furniture,300,7,60
+2023-02-07,West,Smartphone Z,Electronics,800,9,150
+2023-02-08,South,Ergonomic Chair,Furniture,250,3,50
+2023-02-09,North,Headphones,Electronics,150,10,45
+2023-02-10,East,Bookshelf,Furniture,120,8,30

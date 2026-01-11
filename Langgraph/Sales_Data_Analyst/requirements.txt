@@ -1,0 +1,8 @@
+langchain>=0.2.10
+langchain-core>=0.2.10
+langchain-openai>=0.1.6
+langgraph>=0.0.40
+duckdb
+pandas
+streamlit
+plotly

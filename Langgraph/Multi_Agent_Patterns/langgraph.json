@@ -1,0 +1,8 @@
+{
+  "dependencies":["."],
+  "graphs":{
+    "AdaptiveRAG":"./Adaptive_RAG.py:agent"
+  },
+  "env":".env"
+
+}
